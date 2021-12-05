@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pyr0x90
+- 👋 Hi, I’m Megan
 - 👀 I’m interested in Data Science and Analytics.
 - 🌱 I’m currently learning Python, R, Statistics, Quantitative Analysis
 - 💞️ I’m looking to collaborate on a diverse range of beginner/intermediate projects focusing on improving programming and statistics skills
